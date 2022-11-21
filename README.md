@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://briantambusiness.com) -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/Briantam0422">
     <h1 align="center">Hi 👋, I'm Brian Tam</h1>
 </p>
 
