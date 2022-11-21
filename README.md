@@ -93,7 +93,7 @@
 
 <h3 align="left">OS and Version Control Tools: </h3>
 <p align="left">
-  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png" alt="window" width="40" height="40"/> 
   </a>
   <a href="https://www.apple.com/ca/macos/ventura/" target="_blank" rel="noreferrer"> 
