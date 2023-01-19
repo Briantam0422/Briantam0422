@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briantamdev&label=Profile%20views&color=0e75b6&style=flat" alt="briantamdev" /> </p>
 
-- 🌱 I’m currently learning **React Freamwork**
+- 🌱 I’m currently learning **Golang**, **React Freamwork**
 
 - 👨‍💻 All of my projects are available at [https://briantambusiness.com/](https://briantambusiness.com/)
 
