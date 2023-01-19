@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briantamdev&label=Profile%20views&color=0e75b6&style=flat" alt="briantamdev" /> </p>
 
-- 🌱 I’m currently learning **Golang**, **React Freamwork**
+- 🌱 I’m currently learning **React Freamwork**
 
 - 👨‍💻 All of my projects are available at [https://briantambusiness.com/](https://briantambusiness.com/)
 
@@ -76,6 +76,9 @@
 
 <h3 align="left">Backend Programming Languages and Tools: </h3>
 <p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="golang" width="40" height="40"/> 
+  </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
