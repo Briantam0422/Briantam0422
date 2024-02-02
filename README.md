@@ -124,3 +124,7 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a>  
 </p>
+
+![Briantam0422's Stats](https://github-readme-stats.vercel.app/api?username=Briantam0422&theme=light&show_icons=true&hide_border=false&count_private=true)
+![Briantam0422's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Briantam0422&theme=light&hide_border=false)
+![Briantam0422's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Briantam0422&theme=light&show_icons=true&hide_border=false&layout=compact)
