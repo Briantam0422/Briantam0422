@@ -10,9 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=30&color=4D78FB&vCenter=true&size=22&pause=1000" />
 </p>
 <h3 align="center">A passionate frontend developer in Vancouver</h3>
-<h1 align="center">
-  <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briantamdev&label=Profile%20views&color=0e75b6&style=flat" alt="briantamdev" /> </p>
 
@@ -39,9 +36,6 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
 
